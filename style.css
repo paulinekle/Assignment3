@@ -1,8 +1,8 @@
 /*
-font-family: 'Cormorant Garamond', Serif;
-font-size: 55px;
-font-family: 'Fira Sans', Sans-Serif;
-font-size: 15px;
+Font-Family: 'Playfair Display', Serif;
+Font-Size: 48px;
+Font-Family: 'Source Sans Pro', Sans-Serif;
+Font-Size: 16px;
 */
 
 
@@ -11,12 +11,12 @@ font-size: 15px;
 }
 
 body {
-	font-family: 'Fira Sans', Sans-Serif;
+	font-family: 'Source Sans Pro', Sans-Serif;
 	font-size: 20px;
 }
 
 h1, h2 {
-	font-family: 'Cormorant Garamond', Serif;
+	font-family: 'Playfair Display', Serif;
 }
 
 h1 {
