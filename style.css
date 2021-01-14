@@ -26,7 +26,7 @@ header.grid-header {
 
 h1, h2 {
 	Font-Family: 'Abril Fatface', Cursive;
-	color: blanchedalmond;
+	color: ivory;
 }
 
 h1 {
@@ -34,7 +34,7 @@ h1 {
 	margin: 0;
 	writing-mode: horizontal-tb;
 	text-orientation: mixed;
-	padding: ;;
+	padding: 20px ;
 
 }
 
