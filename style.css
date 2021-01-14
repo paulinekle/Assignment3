@@ -53,3 +53,7 @@ main {
 	width: 80%;
 	margin: auto;
 }
+.intro span {
+	font-size: 60px; 
+	Font-Family: 'Abril Fatface', Cursive;
+	color:olive;
