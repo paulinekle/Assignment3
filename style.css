@@ -14,6 +14,15 @@ body {
 	Font-Family: 'Poppins', Sans-Serif;
 	font-size: 20px;
 }
+header {
+	background-image: url();
+	background-size: cover;
+	width: 100vw;
+}
+header.grid-header {
+	display: flex;
+	justify-content: space-between;
+}
 
 h1, h2 {
 	Font-Family: 'Abril Fatface', Cursive;
