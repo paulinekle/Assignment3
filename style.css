@@ -39,7 +39,7 @@ h1 {
 }
 
 h2 {
-	font-size: 60px;
+	font-size: 50px;
 	margin-top: 400px;
 	margin-right: 40px;
 	text-align: right;
@@ -53,3 +53,6 @@ main {
 	width: 80%;
 	margin: auto;
 }
+intro span {font-size: 60px; 
+	font-family: 'Abril Fatface', Cursive;
+	color:olive;}
