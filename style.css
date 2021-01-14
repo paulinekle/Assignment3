@@ -1,8 +1,8 @@
 /*
-Font-Family: 'Playfair Display', Serif;
+Font-Family: 'Abril Fatface', Cursive;
 Font-Size: 48px;
-Font-Family: 'Source Sans Pro', Sans-Serif;
-Font-Size: 16px;
+Font-Family: 'Poppins', Sans-Serif;
+Font-Size: 14px;
 */
 
 
@@ -11,23 +11,23 @@ Font-Size: 16px;
 }
 
 body {
-	font-family: 'Source Sans Pro', Sans-Serif;
+	font-family: 'Poppins', Sans-Serif;
 	font-size: 20px;
 }
 
 h1, h2 {
-	font-family: 'Playfair Display', Serif;
+	font-family: 'Abril Fatface', Serif;
 }
 
 h1 {
-	font-size: 90px;
+	font-size: 70px;
 	margin: 0;
-	writing-mode: vertical-rl;
+	writing-mode: sideways-lr;
 text-orientation: mixed;
 }
 
 h2 {
-	font-size: 60px;
+	font-size: 30px;
 }
 
 p {
