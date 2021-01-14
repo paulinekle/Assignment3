@@ -26,13 +26,16 @@ header.grid-header {
 
 h1, h2 {
 	Font-Family: 'Abril Fatface', Cursive;
+	color: blanchedalmond;
 }
 
 h1 {
 	font-size: 70px;
 	margin: 0;
-	writing-mode: sideways-lr;
-text-orientation: mixed;
+	writing-mode: horizontal-tb;
+	text-orientation: mixed;
+	padding: ;;
+
 }
 
 h2 {
