@@ -15,7 +15,7 @@ body {
 	font-size: 20px;
 }
 header {
-	background-image: url(martin.jpg);
+	background-image: url(images/martin.jpg);
 	background-size: cover;
 	width: 100vw;
 }
