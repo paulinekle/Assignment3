@@ -15,7 +15,7 @@ body {
 	font-size: 20px;
 }
 header {
-	background-image: url(C:\Users\User\Desktop\assignment3\images\martin.jpg);
+	background-image: url();
 	background-size: cover;
 	width: 100vw;
 }
@@ -23,7 +23,7 @@ header.grid-header {
 	display: flex;
 	justify-content: space-between;
 }
-<p class="intro"><span>I</span>am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.</p>
+
 h1, h2 {
 	Font-Family: 'Abril Fatface', Cursive;
 }
